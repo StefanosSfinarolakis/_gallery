@@ -1,6 +1,6 @@
 ---
 author: p18balt
-image_url: /images/pub21.png
+image_url: /images/pubtech.png
 year: 1987
 title: PubTech File Organizer
 caption: Το PubTech File Organizer είναι μία εναλλακτική κελύφους(shell) για τα Windows 3.x και Windows 2 που μοίαζει με διεπαφή χρήστη Macintosh.
